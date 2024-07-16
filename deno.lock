@@ -1,0 +1,7 @@
+{
+  "version": "3",
+  "remote": {
+    "https://deno.land/x/qrcode@v2.0.0/mod.ts": "3e693e8190d5fb4c6ab68a14a1a9473c325d5244fd83240b49cdecdf5fc18a1b",
+    "https://deno.land/x/qrcode@v2.0.0/qrcode.js": "138f870978e21843f48d8b0855b69de6ebf430c3ab9f57c3fa2746d6fba45bf1"
+  }
+}

@@ -1,0 +1,15 @@
+# Ignore the images directory
+images/
+
+# Ignore the Typst output file
+qr_codes_stickers.typ
+
+# Ignore the Typst output file
+qr_codes_stickers.pdf
+
+# Ignore code tool stuff
+.vscode/
+.supermaven/
+
+# Generic ignores
+.DS_Store
